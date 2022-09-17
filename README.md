@@ -6,7 +6,7 @@ Designed to reduce labor around part shortages with small-scale agile production
  - BOM should be only .csv file in directory
  - Run bom_tool.py
  - Choose whether part descriptions should be included in report
- - An report named output.csv will be generated in that directory
+ - A report named output.csv will be generated in that directory
 
 ## BOM Assumptions
  - Any generic csv file of a typical parts list format should work for this tool
